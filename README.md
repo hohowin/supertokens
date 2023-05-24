@@ -1,5 +1,7 @@
 # supertokens
 
+- https://supertokens.com/docs/emailpassword/pre-built-ui/setup/frontend
+
 ---
 
 ## Setup Monorepo
